@@ -1,0 +1,20 @@
+{
+  "name": "password-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaas-dev/password-creator.git"
+  },
+  "keywords": [],
+  "author": "Sam Price",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/yaas-dev/password-creator/issues"
+  },
+  "homepage": "https://github.com/yaas-dev/password-creator#readme"
+}
